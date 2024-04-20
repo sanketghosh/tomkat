@@ -1,3 +1,0 @@
-/home/sgsh/workspace/cpp/tomkat/build/CMakeFiles/tomkat.dir
-/home/sgsh/workspace/cpp/tomkat/build/CMakeFiles/edit_cache.dir
-/home/sgsh/workspace/cpp/tomkat/build/CMakeFiles/rebuild_cache.dir
