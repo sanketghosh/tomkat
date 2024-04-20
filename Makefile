@@ -4,10 +4,10 @@ run: build
 build:
 	@cmake -S . -B build/ && cmake --build build/
 
-rebuild:clean build
+rebuild:del-build build
 
 runfile: build
 	@./build/tomkat ../src/test.tom 
 
-clean:
+del-build:
 	@rm -rf ./build
